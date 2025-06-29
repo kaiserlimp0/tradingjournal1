@@ -1,0 +1,46 @@
+# [Asset Name] Position Documentation
+
+## Basic Information
+- **Asset Type**: [Equity/Forex/Crypto/etc.]
+- **Ticker Symbol**: [Symbol]
+- **Exchange**: [Exchange Name]
+- **Sector/Industry**: [Relevant classification]
+
+## Entry Criteria
+### Fundamental
+- [List fundamental analysis factors]
+- [Key metrics with thresholds]
+
+### Technical
+- [Chart patterns]
+- [Indicator signals]
+- [Volume considerations]
+
+### Sentiment
+- [Market sentiment factors]
+- [News/event triggers]
+
+## Exit Criteria
+### Profit-taking
+- [Price targets]
+- [Trailing stop rules]
+- [Time-based exits]
+
+### Stop-loss
+- [Maximum loss thresholds]
+- [Technical breakdown points]
+- [Fundamental deterioration signals]
+
+## Position Management
+- [Size guidelines]
+- [Pyramiding rules]
+- [Hedging strategies]
+
+## Historical Performance
+- [Backtest results]
+- [Historical win rate]
+- [Average profit/loss]
+
+## Notes
+- [Additional observations]
+- [Special considerations]
