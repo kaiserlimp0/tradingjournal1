@@ -1,0 +1,35 @@
+# [Strategy Name] Entry/Exit Criteria
+
+## Timeframe
+- Primary: [e.g., Daily]
+- Secondary: [e.g., 4-hour]
+
+## Entry Conditions
+1. **Indicator Requirements**:
+   - [RSI must be below 30]
+   - [MACD crossover]
+   
+2. **Price Action Requirements**:
+   - [Must break trendline]
+   - [Must close above key level]
+
+3. **Confirmation**:
+   - [Volume spike required]
+   - [Candlestick pattern confirmation]
+
+## Exit Conditions
+1. **Profit Targets**:
+   - [1R at previous resistance]
+   - [2R at Fibonacci extension]
+   
+2. **Stop Loss**:
+   - [Below recent swing low]
+   - [1.5% of portfolio risk]
+
+3. **Early Exit Triggers**:
+   - [Indicator divergence]
+   - [Fundamental news change]
+
+## Position Sizing
+- [2% of portfolio per trade]
+- [Reduce size during high volatility]
