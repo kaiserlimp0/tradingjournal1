@@ -1,0 +1,15 @@
+trading-positions/
+├── README.md               # Overview of the repository
+├── CONTRIBUTING.md         # Guidelines for contributors
+├── positions/              # Directory for all trading positions
+│   ├── equities/           # Equity positions
+│   ├── forex/              # Forex positions
+│   ├── commodities/        # Commodity positions
+│   ├── crypto/             # Cryptocurrency positions
+│   └── derivatives/        # Derivatives positions
+├── templates/              # Template files
+│   ├── position-template.md # Standard position template
+│   └── criteria-template.md# Entry/exit criteria template
+└── docs/                   # Additional documentation
+    ├── glossary.md         # Trading terms glossary
+    └── methodology.md      # Documentation methodology
